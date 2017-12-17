@@ -46,7 +46,6 @@ class PolicyParser:
 
 		if not config['func_hash']:
 			logger.warn('No hash for function %s. Assigning current hash' % config['func_name'])
-			# self.set_config(func_name=config['func_name'])
 			return True
 		return True
 

@@ -1,6 +1,7 @@
 import click
 from .commands.parse import parse
 from .commands.clean import clean
+from .commands.dedup import dedup
 
 @click.group()
 @click.option('--base', default="data", help="Path to data directory")
@@ -13,3 +14,4 @@ def cli(ctx, base):
 
 cli.add_command(parse)
 cli.add_command(clean)
+cli.add_command(dedup)

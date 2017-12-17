@@ -38,4 +38,11 @@ def load_all_raw(base, policy='tos'):
 	for directory in glob(os.path.join(base,"*/raw/%s/*" % policy)):
 		yield load_raw(base, directory)
 
-		
+def load_all_parsed(base, policy='tos'):
+	"""
+	Load parsed txt files
+	"""
+	for path in glob(os.path.join(base,"*/parsed/%s/*" % policy)):
+		output_path = path.replace('parsed', 'dedup')
+		with open(path) as infile:
+			yield (path, output_path, infile.read())
