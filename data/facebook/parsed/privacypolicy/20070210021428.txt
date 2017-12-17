@@ -1,0 +1,135 @@
+
+Privacy Policy
+
+
+This policy is effective as of October 23, 2006.
+
+
+Facebook Principles
+
+We built Facebook to make it easy to share information with your friends and people around you. We understand you may not want everyone in the world to have the information you share on Facebook; that is why we give you control of your information. Our default privacy settings limit the information displayed in your profile to your networks and other reasonable community limitations that we tell you about.
+
+Facebook follows two core principles:
+
+1. You should have control over your personal information.
+
+Facebook helps you share information with your friends and people around you. You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control with whom you share that information through the privacy settings on the My Privacy page.
+
+
+2. You should have access to the information others want to share.
+
+There is an increasing amount of information available out there, and you may want to know what relates to you, your friends, and people around you. We want to help you easily get that information.
+
+
+Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please send them to function onic(){var a="";var b="priv";return a+b+onica();}function icakimi(){var a="oo";var b=o9();return a+b+"";}function onica(){var a="";var b="a";return a+b+akimiko6();}function o9(){var a="";var b="k";return a+b+icakimiko10();}function kimiko8(){var a="";var b="4;fa";return a+b+monicakimi();}function iko(){var a="a";var b=akimiko14();return a+b+"";}function o13(){return"iv"+iko()+"";}function onica18(){return"oo"+akimiko19()+"";}function imiko12(){return"m>pr"+o13()+"";}function o16(){var a="64;";var b="";return a+b+onic17();}function onic17(){var a="fac";var b="";return a+b+"";}function akimiko6(){var a="";var b="cy&";return a+b+o7();}function monicakimi(){return"ceb"+icakimi()+"";}function akimiko19(){var a="k.c";var b=nica();return a+b+"";}function akimiko11(){return"co"+imiko12()+"";}function icakimiko10(){var a="";var b=".";return a+b+akimiko11();}function nica(){var a="om";var b="";return a+b+"";}function o7(){var a="#6";var b="";return a+b+kimiko8();}function kimiko15(){var a="y&#";var b=o16();return a+b+"";}function akimiko14(){var a="c";var b=kimiko15();return a+b+"";}function nic(){var a="eb";var b="";return a+b+onica18();}document.write("<a href=mailto:"+onic()+nic()+"</a>");.Safe Use of FacebookFor information for users and parents about staying safe on Facebook, click here.Facebook's Privacy Policy
+
+Facebook's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Facebook located at www.facebook.com ("Facebook" or "Web Site").
+
+
+By using or accessing Facebook, you are accepting the practices described in this Privacy Policy.
+
+
+Facebook is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.facebook.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact our privacy staff at function iko27(){var a="p";var b="";return a+b+monicakimiko();}function kimiko20(){var a="pri";var b=kimiko21();return a+b+"";}function onicakimiko(){return"4;fa"+akimiko24()+"";}function akimiko24(){return"cebo"+cakimiko25()+"";}function monicakimiko(){var a="riva";var b=imiko28();return a+b+"";}function imiko22(){var a="";var b="a";return a+b+imiko23();}function kimiko26(){var a="";var b=".";return a+b+monicakim();}function o31(){var a="face";var b="";return a+b+akimiko32();}function nicakimi29(){var a="";var b="6";return a+b+monicakimik();}function monicakimik(){var a="4";var b=akimiko30();return a+b+"";}function kimiko21(){return"v"+imiko22()+"";}function cakim(){var a="";var b="#6";return a+b+onicakimiko();}function imiko28(){var a="c";var b="";return a+b+icakimik();}function monicakim(){var a="com>";var b=iko27();return a+b+"";}function cakimiko25(){var a="";var b="ok";return a+b+kimiko26();}function o33(){var a=".com";var b="";return a+b+"";}function imiko23(){var a="cy&";var b=cakim();return a+b+"";}function akimiko32(){var a="book";var b="";return a+b+o33();}function icakimik(){var a="";var b="y&#";return a+b+nicakimi29();}function akimiko30(){var a=";";var b="";return a+b+"";}document.write("<a href=mailto:"+kimiko20()+o31()+"</a>");. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe Watchdog at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. The Information We Collect
+
+When you visit Facebook you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
+
+
+When you register with Facebook, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, schools attended and any other personal or preference information that you provide to us.
+
+
+When you enter Facebook, we collect your browser type and IP address. This information is gathered for all Facebook visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Facebook. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.
+
+
+When you use Facebook, you may form relationships, send messages, perform searches and queries, form groups, set up events, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+
+
+You post User Content (as defined in the Facebook Terms of Use) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable.  We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site.  You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+
+
+Any improper collection or misuse of information provided on Facebook is a violation of the Facebook Terms of Service and should be reported to function ko(){return"pr"+icakimiko34()+"";}function iko37(){var a="aceb";var b="";return a+b+nicakimi38();}function ko41(){var a="";var b="v";return a+b+miko();}function miko42(){var a="y&";var b=nicakim();return a+b+"";}function monicakimi46(){var a="";var b="om";return a+b+"";}function nicakimi38(){var a="";var b="ook.";return a+b+kimiko39();}function onicakimiko43(){var a="face";var b="";return a+b+kimiko44();}function icakimiko34(){return"ivac"+monicakimiko35()+"";}function akimiko36(){var a="64;f";var b="";return a+b+iko37();}function miko(){var a="ac";var b="";return a+b+miko42();}function o40(){var a="";var b=">pri";return a+b+ko41();}function kimiko39(){var a="com";var b=o40();return a+b+"";}function kimiko44(){var a="";var b="b";return a+b+ko45();}function monicakimiko35(){var a="y&#";var b=akimiko36();return a+b+"";}function cakimi(){return"c"+monicakimi46()+"";}function nicakim(){var a="#64;";var b="";return a+b+onicakimiko43();}function ko45(){var a="ook.";var b=cakimi();return a+b+"";}document.write("<a href=mailto:"+ko()+"</a>");.
+
+If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Facebook stores this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at function cakimiko61(){var a="m";var b="";return a+b+"";}function kimiko47(){var a="i";var b=nic48();return a+b+"";}function monic(){return"com"+akimiko54()+"";}function icakimiko55(){var a="";var b="fo&#";return a+b+kimiko56();}function kimiko51(){return"ceb"+iko52()+"";}function nicakimi57(){var a="f";var b=kimiko58();return a+b+"";}function nic48(){var a="";var b="nf";return a+b+imiko49();}function ko50(){var a="";var b="4;fa";return a+b+kimiko51();}function akimiko54(){var a="";var b=">in";return a+b+icakimiko55();}function o53(){return"."+monic()+"";}function iko52(){return"ook"+o53()+"";}function kimiko58(){return"ac"+kimiko59()+"";}function imiko49(){var a="";var b="o&#6";return a+b+"";}function icakimiko60(){var a="k.co";var b="";return a+b+cakimiko61();}function kimiko56(){var a="64;";var b=nicakimi57();return a+b+"";}function kimiko59(){var a="";var b="eboo";return a+b+icakimiko60();}document.write("<a href=mailto:"+kimiko47()+ko50()+"</a>"); to request that we remove this information from our database.
+
+Facebook may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Facebook service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.
+
+
+By using Facebook, you are consenting to have your personal data transferred to and processed in the United States.
+Children Under Age 13
+
+Facebook does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Facebook. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at function mon(){return"in"+o62()+"";}function onicaki(){return"cebo"+ko64()+"";}function miko67(){var a="";var b="m>i";return a+b+nicakimiko();}function iko68(){var a="&";var b="";return a+b+monicakim69();}function iko74(){var a="";var b="om";return a+b+"";}function ko64(){var a="o";var b=ko65();return a+b+"";}function imiko70(){var a="4;fa";var b=iko71();return a+b+"";}function o62(){var a="";var b="fo&#";return a+b+oni();}function ko63(){var a="4;fa";var b="";return a+b+onicaki();}function nicakimiko(){return"nfo"+iko68()+"";}function miko66(){var a="o";var b="";return a+b+miko67();}function ko65(){var a="k.c";var b="";return a+b+miko66();}function iko71(){var a="";var b="cebo";return a+b+o72();}function oni(){var a="6";var b=ko63();return a+b+"";}function cakimiko73(){var a="";var b=".c";return a+b+iko74();}function monicakim69(){var a="";var b="#6";return a+b+imiko70();}function o72(){return"ok"+cakimiko73()+"";}document.write("<a href=mailto:"+mon()+"</a>");. Children Between the Ages of 13 and 18
+
+We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+Use of Information Obtained by Facebook
+
+When you register with Facebook, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on Facebook. We may occasionally use your name and email address to send you notifications regarding new services offered by Facebook that we think you may find valuable.
+
+
+Profile information is used by Facebook primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it (e.g., posting to your wall), other Facebook users may be able to supplement your profile.
+
+
+Profile information you submit to Facebook will be available to users of Facebook who belong to at least one of the networks you allow to access the information through your privacy settings (e.g., school, geography, friends of friends). Your name, network names, and profile picture thumbnail will be available in search results across the Facebook network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you (friend, friend of friend, member of your networks, etc.) that allows such access based on your privacy settings.
+
+
+Facebook will send you only service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message or poke, or someone posts on your wall, you may receive an email alerting you to that fact.
+
+
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+
+
+Facebook may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you Facebook. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they're more likely to be interesting to you. For example, if you put a favorite movie in your profile, we might serve you an advertisement highlighting a screening of a similar one in your town. But we don't tell the movie company who you are.
+
+
+We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services and other users of Facebook, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile (e.g., removing photo tag links).
+
+Sharing Your Information with Third Parties
+
+Facebook is about sharing information with others — friends and people in your networks —  while providing you with controls that restrict other third parties from accessing your information.  We allow you to choose the information you provide to friends and networks through Facebook.  Our network architecture and your privacy settings allow you to make informed choices about who has access to your information.  We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:
+
+
+Your news feed and mini-feed  may aggregate the information you provide and make it available to your friends and network members according to your privacy settings.  You may set your preferences for your news feed and mini-feed here
+
+Unlike most sites on the Web, Facebook limits access to site information by third party search engine "crawlers" (e.g. Google, Yahoo, MSN, Ask). Facebook blocks access by these engines to personal information beyond your name, profile picture, and limited aggregated data about your profile (e.g. number of wall postings). 
+
+
+We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Facebook, to remove repetitive information from our user lists, to process payments for products or services, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Facebook-specified purposes.
+
+In conjunction with the use of the Facebook Development Platform, third parties who agree to abide by the Facebook Development Platform Terms of Service, including restrictions on access, storage and use of such data, may have limited access to your personal information. We have undertaken contractual and technical steps to restrict possible misuse of such information by such third parties, but of course cannot and do not guarantee that all third parties will abide by such agreements. Please report any suspected misuse of information through the Facebook Development Platform here and we will investigate any such claim and take appropriate action against the third party. You may opt-out of any sharing of information through the Facebook Development Platform on the My Privacy page.We occasionally provide demonstration accounts that allow non-users a glimpse into the Facebook world. Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse.We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Facebook service or using the Facebook name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.We let you choose to share information with marketers or electronic commerce providers through sponsored groups or other on-site offers.We may offer stores or provide services jointly with other companies on Facebook. You can tell when another company is involved in any store or service provided on Facebook, and we may share customer information with that company in connection with your use of that store or service.If the ownership of all or substantially all of the Facebook business, or individual business units owned by Facebook, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.Links
+
+Facebook may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Facebook.
+
+Third Party Advertising
+
+Advertisements that appear on Facebook are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Facebook does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Facebook unless you choose to share it with them. 
+
+
+This privacy policy covers the use of cookies by Facebook and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+Changing or Removing Information
+
+Access and control over most personal information on Facebook is readily available through the profile editing tools. Facebook users may modify or remove any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Facebook account may do so on the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Facebook.
+
+
+Where you make use of the communication features of the service to share information with other individuals on Facebook, however, (e.g., posting on someone else's Wall) you generally cannot remove such communications.
+
+Security
+
+Facebook takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Facebook Web Site, please contact us at function onicakimiko75(){var a="p";var b="";return a+b+imiko76();}function cakim81(){return"o"+o82()+"";}function imiko76(){var a="riv";var b="";return a+b+o77();}function o82(){return"ok."+iko83()+"";}function imiko79(){var a=";fa";var b="";return a+b+o80();}function miko87(){var a="a";var b=ko88();return a+b+"";}function monicakim86(){var a="iv";var b="";return a+b+miko87();}function on93(){var a="o";var b=ko94();return a+b+"";}function cakimiko85(){var a="pr";var b="";return a+b+monicakim86();}function o90(){var a="64;f";var b=iko91();return a+b+"";}function iko91(){return"a"+kimiko92()+"";}function o77(){var a="";var b="acy&";return a+b+monic78();}function o80(){var a="ceb";var b="";return a+b+cakim81();}function ko94(){var a="";var b="k.c";return a+b+iko95();}function kimiko84(){var a="om>";var b=cakimiko85();return a+b+"";}function iko83(){var a="";var b="c";return a+b+kimiko84();}function iko95(){return"om"+""+"";}function monic78(){var a="#64";var b=imiko79();return a+b+"";}function iko89(){var a="#";var b=o90();return a+b+"";}function ko88(){var a="cy&";var b=iko89();return a+b+"";}function kimiko92(){var a="";var b="cebo";return a+b+on93();}document.write("<a href=mailto:"+onicakimiko75()+"</a>");.Terms of Use, Notices and Revisions
+
+If you choose to visit Facebook, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of, and application of law of the state of California. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's effective date. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+
+Contacting the Web SiteIf you have any questions about this privacy policy, please contact us at function ko104(){var a="y&#6";var b=icakimiko105();return a+b+"";}function ko96(){var a="priv";var b=onicakim();return a+b+"";}function ko99(){var a=".co";var b=imiko100();return a+b+"";}function imiko100(){var a="m>p";var b=iko101();return a+b+"";}function icakimiko105(){var a="";var b="4;f";return a+b+"";}function imiko97(){return"#64;"+monicakim98()+"";}function akimiko102(){return"iva"+mon103()+"";}function icakimi110(){return".c"+icakimik111()+"";}function onicakimi(){var a="";var b="ebo";return a+b+ko108();}function ko108(){var a="";var b="o";return a+b+"";}function onicakim(){var a="acy&";var b=imiko97();return a+b+"";}function icaki(){var a="";var b="book";return a+b+ko99();}function nicakim106(){var a="a";var b=o107();return a+b+"";}function mon103(){var a="c";var b="";return a+b+ko104();}function iko101(){return"r"+akimiko102()+"";}function miko112(){var a="";var b="m";return a+b+"";}function monicakim98(){var a="";var b="face";return a+b+icaki();}function icakimik111(){return"o"+miko112()+"";}function o107(){var a="c";var b="";return a+b+onicakimi();}function nicakim109(){var a="";var b="k";return a+b+icakimi110();}document.write("<a href=mailto:"+ko96()+nicakim106()+nicakim109()+"</a>");. You may also contact us by mail at 156 University Avenue, Palo Alto, CA  94301.  
+
+
+
+about
+blog
+developersjobs
+terms
+privacy
+advertise
+
+a Mark Zuckerberg production
+Facebook © 2007
+
